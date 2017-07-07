@@ -1,0 +1,10 @@
+{
+  "name": "turkinox/magento-enquiry-saver",
+  "license": "MIT",
+  "type": "magento-module",
+  "description": "A simple Magento module that allows you to save contact form enquiries within the Magento admin.",
+  "homepage": "https://github.com/Turiknox/magento-enquiry-saver",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
